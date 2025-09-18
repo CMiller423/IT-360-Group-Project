@@ -1,0 +1,12 @@
+Platform Python Library Outputs
+system: Displays the current operating system
+node: Displays the name of the computer (This is not the user name)
+release: Displays the current release version of the operating system
+version: Displays the full version number of the operating system
+machine: Displays the cpu platform Ex: AMD64
+processor: Displays more detail of the cpu such as the model number.
+architecture: displays wether the system is 32 or 64 bit and the type of operating system
+platform: Practically the same as version
+uname: not really sure what this does, seems to display all the info from system,node,release,version, and machine
+
+These are the usefull functions I could find
