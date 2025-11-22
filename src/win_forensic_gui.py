@@ -5,7 +5,7 @@ import re
 from pathlib import Path
 import os
 
-#By Ed Mitchel, and Carson Miller
+#By Ed Mitchell, and Carson Miller
 # ----------------------
 # GUI helper functions
 # ----------------------
@@ -101,3 +101,4 @@ paned.add(right_frame, weight=3)
 report_sections = {}
 
 root.mainloop()
+
