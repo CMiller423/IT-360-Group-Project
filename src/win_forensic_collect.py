@@ -1,6 +1,6 @@
 #!python3
 """
-by Ed Mitchel, and Carson Miller
+by Ed Mitchell, and Carson Miller
 Windows local forensic collector (single combined text report).
 Requires: Python 3.x (only stdlib). Run as Administrator.
 Outputs: report-YYYYMMDD-HHMMSS.txt and artifacts/ folder for temporary copies.
@@ -189,3 +189,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
